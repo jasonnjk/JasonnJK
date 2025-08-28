@@ -1,7 +1,7 @@
 
 ### 👋&nbsp;&nbsp;Heey!
 
-I'm **[Jason]**, 
+I'm **Jason**, 
 
 Welcome on my profile.
 
