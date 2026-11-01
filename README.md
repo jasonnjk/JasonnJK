@@ -1,2 +1,25 @@
-### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
-<br><img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Google Chrome" title="Google Chrome" src="https://user-images.githubusercontent.com/1680157/87443745-47fd3c00-c5cc-11ea-878f-44f34572775e.png" height="24"><br>
+#### Development Toolbelt
+
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<details>
+  <summary>Libraries</summary>
+
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+</details>
+
+<details>
+  <summary>Software I use</summary>
+  
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+</details>
